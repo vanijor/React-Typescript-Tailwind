@@ -1,7 +1,10 @@
-export default function Home() {
+const Home = () => {
   return (
     <div>
-      <h2>Bem Vindo</h2>
+      <h1>Manu</h1>
+      <h2>Bem Vindo!</h2>
     </div>
-  );
+  )
 }
+
+export default Home
